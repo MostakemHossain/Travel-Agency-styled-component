@@ -1,4 +1,5 @@
 
+import Home from './components/Home'
 import Navber from './components/Navber'
 
 export default function App() {
@@ -6,6 +7,7 @@ export default function App() {
     <div>
 
       <Navber></Navber>
+      <Home></Home>
     </div>
   )
 }
