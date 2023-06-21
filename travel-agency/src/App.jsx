@@ -1,5 +1,6 @@
 
 import Destination from './components/Destination'
+import DownloadApp from './components/DownloadApp'
 import Home from './components/Home'
 import Navber from './components/Navber'
 import Offer from './components/Offer'
@@ -19,6 +20,7 @@ export default function App() {
       <Offer></Offer>
       <Tours />
       <Testimonials></Testimonials>
+      <DownloadApp></DownloadApp>
 
 
     </div>

@@ -1,4 +1,4 @@
-import React from "react";
+
 import styled from "styled-components";
 import testimonial1 from "../assets/testimonial1.png";
 import testimonial2 from "../assets/testimonial2.png";
