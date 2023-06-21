@@ -21,7 +21,7 @@ export default function Destination() {
         },
     ]
     return (
-        <Section id="destination">
+        <Section id="destinations">
             <div className="info">
                 <h2> Top <span>Destination</span> In the World</h2>
 

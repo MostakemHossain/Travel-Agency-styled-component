@@ -4,6 +4,7 @@ import Home from './components/Home'
 import Navber from './components/Navber'
 import Offer from './components/Offer'
 import Service from './components/Service'
+import Tours from './components/Tours'
 
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
       <Service></Service>
       <Destination></Destination>
       <Offer></Offer>
+      <Tours />
 
 
     </div>
