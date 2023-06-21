@@ -2,6 +2,7 @@
 import Destination from './components/Destination'
 import Home from './components/Home'
 import Navber from './components/Navber'
+import Offer from './components/Offer'
 import Service from './components/Service'
 
 
@@ -13,6 +14,7 @@ export default function App() {
       <Home></Home>
       <Service></Service>
       <Destination></Destination>
+      <Offer></Offer>
 
 
     </div>
