@@ -1,6 +1,7 @@
 
 import Destination from './components/Destination'
 import DownloadApp from './components/DownloadApp'
+import Footer from './components/Footer'
 import Home from './components/Home'
 import Navber from './components/Navber'
 import Offer from './components/Offer'
@@ -21,6 +22,7 @@ export default function App() {
       <Tours />
       <Testimonials></Testimonials>
       <DownloadApp></DownloadApp>
+      <Footer></Footer>
 
 
     </div>
